@@ -1,15 +1,10 @@
 # DS-ML-Labs
-A collection of Data Science and Machine Learning lab exercises and projects.
-## Weeks Overview
+
+A collection of Data Science and Machine Learning lab exercises and projects, organized by week.
+
+---
 
 ### Week 1 – Python Basics
-- **Notebook:** [week-1-Variables-DataTypes.ipynb](week-1/week-1-Variables-DataTypes.ipynb)  
-- **Python scripts:** see the `python` folder in [Week 1](week-1/README.md)  
-- **Screenshots:** see the `screenshots` folder in [Week 1](week-1/README.md)  
-    
-
-### Week 2
-- Coming soon…
-
-### Week 3
-- Coming soon…
+- **Notebook:** `week-1-Variables-DataTypes.ipynb` — contains exercises on Python variables and data types.  
+- **Screenshots:** folder showing outputs and results from the notebook exercises.  
+- **README:** explains the Week 1 exercises, learning outcomes, and folder contents.
