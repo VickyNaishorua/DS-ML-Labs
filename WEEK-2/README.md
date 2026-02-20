@@ -8,7 +8,7 @@ This README provides an overview of the most common Python data structures: **Li
 - Python 3
 - Jupyter Notebook 
 - Git & GitHub
-- postimg.cc
+- Postimg.cc
 
 ## Step-by-Step Process
 1. Created examples of lists, tuples, and dictionaries in a Jupyter Notebook.
@@ -52,7 +52,7 @@ my_list.extend([7, 8, 9, 10])
 print(my_list)  # [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 ## Screenshot of result
-![List extend Output](https://i.postimg.cc/hvDgcvxW/list-extend.png)
+![List extend Output](https://i.postimg.cc/J4y7nygd/list-extend.png)
 
 
 insert() – Inserts an element at a specific position
@@ -121,8 +121,6 @@ Tuples are similar to lists but are immutable — their elements cannot be chang
 my_tuple = ('milk', 'sugar', 'cinnamon', 'oats', 'sugar')
 ```
 
-Tuples can also be created using the tuple() constructor.
-
 ### Tuple Methods
 
 count() – Returns how many times a value appears
@@ -132,11 +130,10 @@ print(count)  # 2
 ```
 
 index() – Returns the index of the first occurrence of a value
-Indexing – Access an element using its position
 ```python
 index = my_tuple.index('oats')
 ```
-
+Indexing – Access an element using its position
 ```python
 print(my_tuple[2])  # cinnamon
 ```
@@ -155,9 +152,6 @@ my_dict = {'name':'Vicky','age':29,'city':'Nairobi'}
 # or using constructor
 my_dict = dict(name='Vicky', age=29, city='Nairobi')
 ```
-
-Dictionaries can also be created using dict().
-
 ### Dictionary Methods
 
 get() – Returns the value for a specified key
